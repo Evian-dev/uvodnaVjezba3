@@ -1,0 +1,2 @@
+C:\Users\tanja\source\repos\uvodnaVjezba3\uvodnaVjezba3\obj\Debug\uvodnaVjezba3.csproj.AssemblyReference.cache
+C:\Users\tanja\source\repos\uvodnaVjezba3\uvodnaVjezba3\obj\Debug\uvodnaVjezba3.csproj.CoreCompileInputs.cache
